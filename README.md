@@ -1,3 +1,3 @@
-Strorage for app
+Storage for app
 
 - Text & Chords
